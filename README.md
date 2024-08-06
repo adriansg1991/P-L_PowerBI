@@ -14,15 +14,6 @@ Una de las ventajas clave de este proyecto es la integración con la base de dat
 - **Ahorro de Tiempo**: Evita el proceso manual de descarga y actualización de datos, lo que permite enfocarse en el análisis y la toma de decisiones.
 - **Reducción de Errores**: Minimiza el riesgo de errores al eliminar el manejo manual de los datos.
 
-## Uso del Archivo `.pbix`
-
-1. **Descarga**: Descarga el archivo `.pbix` desde la sección de releases o desde el repositorio.
-2. **Conexión a la Base de Datos**: Al abrir el archivo en Power BI, asegúrate de configurar la conexión a la base de datos del ERP de la empresa para obtener los datos más recientes.
-3. **Explora y Analiza**: Utiliza las visualizaciones y filtros disponibles para explorar los datos financieros y obtener insights valiosos.
-
-## Contribución
-
-Si tienes sugerencias o mejoras para el informe, no dudes en abrir un issue o enviar un pull request. Tu colaboración es bienvenida.
 
 ## Licencia
 
