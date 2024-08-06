@@ -1,5 +1,5 @@
 
-# 📊 Informes Financieros: Excel vs. Power BI
+# 📊 Informes Financieros: Excel (manual) vs. Power BI (automatizado)
 
 Cada vez más empresas están migrando a **Power BI** para automatizar sus informes financieros. Power BI permite conectar la base de datos del ERP con la herramienta BI, manteniendo los informes actualizados en todo momento sin necesidad de intervención manual. Esta automatización facilita un flujo de trabajo más eficiente y reduce la posibilidad de errores.
 
