@@ -23,13 +23,6 @@ En resumen, aunque la implementación de Power BI puede ser inicialmente más co
 
 He subido un archivo de ejemplo en formato `.pbix` que contiene un **dashboard financiero** creado con Power BI. Este archivo está diseñado para ilustrar las capacidades de Power BI frente a Excel en la creación y visualización de dashboards interactivos.
 
-### Contenido del archivo:
-
-- 📈 **Resumen financiero general**
-- 📉 **Visualización de tendencias** de ingresos y gastos
-- 📊 **Gráficos interactivos** para análisis de datos históricos
-- 💡 **Análisis de rentabilidad y liquidez**
-
 ### ⚙️ Instrucciones para abrir el archivo:
 
 1. 📥 Descarga el archivo [Financial_Reporting_And_Analysis(PowerBI).pbix](https://github.com/adriansg1991/P-L_PowerBI/blob/main/0.%20Financial_Reporting_And_Analysis(PowerBI)%20-%20Ln.pbix).
