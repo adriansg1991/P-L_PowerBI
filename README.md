@@ -18,3 +18,4 @@ Lo más difícil de implementar Power BI en tus informes es entender la estructu
 
 En resumen, aunque la implementación de Power BI puede ser inicialmente más compleja y requerir más tiempo debido a la necesidad de comprender la estructura de la base de datos, la inversión vale la pena. Power BI ofrece una solución eficiente y menos propensa a errores para la creación de informes financieros, superando las limitaciones del método manual con Excel.
 
+![image](https://github.com/user-attachments/assets/fa78d526-3155-4e1a-8806-b121648a842d)
