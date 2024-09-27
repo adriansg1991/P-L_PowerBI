@@ -32,7 +32,7 @@ He subido un archivo de ejemplo en formato `.pbix` que contiene un **dashboard f
 
 ### ⚙️ Instrucciones para abrir el archivo:
 
-1. 📥 Descarga el archivo [NombreDelArchivo.pbix](ruta-del-archivo).
+1. 📥 Descarga el archivo [NombreDelArchivo.pbix](https://github.com/adriansg1991/P-L_PowerBI/blob/main/0.%20Financial_Reporting_And_Analysis(PowerBI)%20-%20Ln.pbix).
 2. 🖥️ Abre el archivo con **Power BI Desktop**.
 3. 🛠️ Explora y personaliza las visualizaciones según sea necesario.
 
