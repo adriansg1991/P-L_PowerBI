@@ -28,6 +28,7 @@ He subido un archivo de ejemplo en formato `.pbix` que contiene un **dashboard f
 1. 📥 Descarga el archivo [Financial_Reporting_And_Analysis(PowerBI).pbix](https://github.com/adriansg1991/P-L_PowerBI/blob/main/0.%20Financial_Reporting_And_Analysis(PowerBI)%20-%20Ln.pbix).
 2. 🖥️ Abre el archivo con **Power BI Desktop**.
 3. 🛠️ Explora y personaliza las visualizaciones según sea necesario.
+   
 
 Este archivo sirve como ejemplo para resaltar las ventajas de Power BI en la automatización y actualización de reportes financieros interactivos.
 
