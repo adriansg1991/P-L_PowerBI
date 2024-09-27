@@ -22,4 +22,5 @@ En resumen, aunque la implementación de Power BI puede ser inicialmente más co
 
 ![2024-09-27 12-18-59](https://github.com/user-attachments/assets/68a8142d-6505-408e-9f16-fd214b781301)
 
+![2024-09-27 12-18-59](https://github.com/user-attachments/assets/bf15f6ea-916a-4d01-a2f8-423c73aa8fd5)
 
