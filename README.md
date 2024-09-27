@@ -19,8 +19,25 @@ Lo más difícil de implementar Power BI en tus informes es entender la estructu
 En resumen, aunque la implementación de Power BI puede ser inicialmente más compleja y requerir más tiempo debido a la necesidad de comprender la estructura de la base de datos, la inversión vale la pena. Power BI ofrece una solución eficiente y menos propensa a errores para la creación de informes financieros, superando las limitaciones del método manual con Excel.
 
 
+## 📊 Ejemplo de Dashboard Financiero en Power BI
+
+He subido un archivo de ejemplo en formato `.pbix` que contiene un **dashboard financiero** creado con Power BI. Este archivo está diseñado para ilustrar las capacidades de Power BI frente a Excel en la creación y visualización de dashboards interactivos.
+
+### Contenido del archivo:
+
+- 📈 **Resumen financiero general**
+- 📉 **Visualización de tendencias** de ingresos y gastos
+- 📊 **Gráficos interactivos** para análisis de datos históricos
+- 💡 **Análisis de rentabilidad y liquidez**
+
+### ⚙️ Instrucciones para abrir el archivo:
+
+1. 📥 Descarga el archivo [NombreDelArchivo.pbix](ruta-del-archivo).
+2. 🖥️ Abre el archivo con **Power BI Desktop**.
+3. 🛠️ Explora y personaliza las visualizaciones según sea necesario.
+
+Este archivo sirve como ejemplo para resaltar las ventajas de Power BI en la automatización y actualización de reportes financieros interactivos.
 
 ![2024-09-27 12-18-59](https://github.com/user-attachments/assets/68a8142d-6505-408e-9f16-fd214b781301)
 
-![2024-09-27 12-18-59](https://github.com/user-attachments/assets/bf15f6ea-916a-4d01-a2f8-423c73aa8fd5)
 
